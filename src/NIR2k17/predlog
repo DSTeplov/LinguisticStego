@@ -1,0 +1,62 @@
+package NIR2k17;
+
+import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class Parsing {
+    //Переделать в метод
+    public ArrayList<Pairs> parse(String FileDir) throws IOException {
+
+        String[] tmp = new String[10];
+        String[] str = new String[10];
+        ArrayList <Pairs> nabor = new ArrayList<Pairs>();
+        ArrayList<Node> predl = new ArrayList<>();
+        int root = -1;
+        int i = -1;
+        String predlog = "";
+        int predlogparent = -1;
+
+        FileReader fr = new FileReader(FileDir);
+        Scanner sc = new Scanner(fr);
+        while (sc.hasNextLine()) {
+            str = sc.nextLine().split("\\s+");// В каждой строке строка.
+
+            //Если пустой строки нету то делаем как надо
+            if (!str[0].equals("") && !str[1].equals(".")) {
+                //Две нижнии с предлогом убрать если что
+                if(str[3].equals("S"))
+                {
+                    predlog = "";
+                    predlog = str[1] + " ";
+                    predlogparent = Integer.parseInt(str[6]);
+                    continue;
+                }
+                if(predlog.equals(""))
+                {
+                    predlogparent = Integer.parseInt(str[6]);
+                }
+                predl.add(new Node(Integer.parseInt(str[0]), predlog + str[1], predlogparent, str[7]));//Распарсили предложение в лист Node'ов.
+                predlog = "";
+                // System.out.println(predl.size());
+            }
+            else if(str[0].equals("")) continue;
+            else if (str[1].equals(".")){
+                    for (Node node : predl) {
+                        if (node.parent != 0) predl.get(node.parent - 1).addSons(node);
+                            else root = node.number - 1;//Узнаем индекс корня
+                    }
+                Pairs pair = new Pairs(predl, root);
+                nabor.add(pair);//!
+                predl = new ArrayList<>();
+                //predl.clear();
+                //predl = null;
+                root = -1;
+            }
+
+        }
+        return nabor;
+    }
+}
+

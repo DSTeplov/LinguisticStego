@@ -1,0 +1,5760 @@
+1	В	в	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-a	1	уточн	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-n	4	обст	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-n	0	ROOT	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-a	6	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-a	4	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	1	предик	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	во	во	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	5	огранич	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-a	3	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-a	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	во	во	S	S	Sp-a	3	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	во	во	S	S	Sp-a	4	атриб	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+4	во	во	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	во	во	S	S	Sp-n	3	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-a	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	1	аппоз	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	6	обст	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	4	обст	_	_
+2	во	во	S	S	Sp-l	4	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	во	во	S	S	Sp-l	4	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	1	сент-соч	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	5	об-копр	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	во	во	S	S	Sp-a	5	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	во	во	S	S	Sp-a	6	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	4	обст	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	во	во	S	S	Sp-a	6	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	композ	_	_
+5	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	5	обст	_	_
+2	во	во	S	S	Sp-a	5	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	-	-	-	3	предик	_	_
+2	во	во	S	S	Sp-n	3	присвяз	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	3	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	-	-	-	3	предик	_	_
+2	во	во	S	S	Sp-n	3	присвяз	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	-	-	-	3	предик	_	_
+2	во	во	S	S	Sp-n	3	присвяз	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	атриб	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	3	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	-	-	-	3	предик	_	_
+2	во	во	S	S	Sp-n	3	присвяз	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	-	-	-	0	ROOT	_	_
+2	во	во	S	S	Sp-n	0	ROOT	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	атриб	_	_
+6	вторник	вторник	N	N	Ncmsan	4	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	-	-	-	0	ROOT	_	_
+2	во	во	S	S	Sp-n	0	ROOT	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	6	об-копр	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	5	обст	_	_
+2	во	во	S	S	Sp-l	5	обст	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	во	во	S	S	Sp-a	6	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	композ	_	_
+5	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	5	обст	_	_
+2	во	во	S	S	Sp-a	5	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	4	обст	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	4	обст	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	6	предик	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	4	обст	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-a	4	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	4	обст	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	4	опред	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	во	во	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	5	1-компл	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-l	4	обст	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-n	0	ROOT	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-l	6	обст	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	предик	_	_
+5	во	во	S	S	Sp-a	3	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	предик	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	разъяснит	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-l	3	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-l	3	обст	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	во	во	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+5	во	во	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	композ	_	_
+4	Иране	иран	N	N	Ncmsln	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	во	во	S	S	Sp-a	1	сочин	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	во	во	S	S	Sp-a	1	сочин	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	во	во	S	S	Sp-a	4	уточн	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предл	_	_
+6	во	во	S	S	Sp-n	4	уточн	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	во	во	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	во	во	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	6	вспом	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	во	во	S	S	Sp-l	2	1-компл	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	во	во	S	S	Sp-l	2	1-компл	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	во	во	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	во	во	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	во	во	S	S	Sp-l	6	огранич	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	во	во	S	S	Sp-a	2	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	во	во	S	S	Sp-a	4	атриб	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	6	обст	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+4	Иране	иран	N	N	Ncmsln	5	огранич	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предл	_	_
+6	во	во	S	S	Sp-n	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+4	во	во	S	S	Sp-l	0	ROOT	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	во	во	S	S	Sp-a	1	сочин	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	во	во	S	S	Sp-n	5	уточн	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-n	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	6	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	5	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	во	во	S	S	Sp-n	5	обст	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	5	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+5	во	во	S	S	Sp-n	0	ROOT	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	5	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	4	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-a	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-l	4	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	6	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	сочин	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	6	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	во	во	S	S	Sp-a	6	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	во	во	S	S	Sp-l	4	обст	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	во	во	S	S	Sp-n	4	обст	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	6	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	вспом	_	_
+4	Иране	иран	N	N	Ncmsln	5	предл	_	_
+5	во	во	S	S	Sp-n	1	сочин	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	композ	_	_
+4	Иране	иран	N	N	Ncmsln	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	6	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	6	предик	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	предик	_	_
+5	во	во	S	S	Sp-a	3	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-l	3	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+4	во	во	S	S	Sp-a	3	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	в	в	S	S	Sp-n	0	ROOT	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	в	в	S	S	Sp-n	0	ROOT	_	_
+3	во	во	S	S	Sp-a	6	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	в	в	S	S	Sp-n	4	обст	_	_
+3	во	во	S	S	Sp-n	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	в	в	S	S	Sp-n	4	обст	_	_
+3	во	во	S	S	Sp-n	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	в	в	S	S	Sp-n	0	ROOT	_	_
+3	во	во	S	S	Sp-a	6	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	предик	_	_
+2	в	в	S	S	Sp-n	5	обст	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	атриб	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-n	1	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	в	в	S	S	Sp-a	1	атриб	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-a	4	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	обст	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	атриб	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	во	во	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	в	в	S	S	Sp-a	1	атриб	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	во	во	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	во	во	S	S	Sp-a	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	разъяснит	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+5	во	во	S	S	Sp-a	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	предик	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	разъяснит	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	2	предл	_	_
+5	во	во	S	S	Sp-a	1	4-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	2	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	в	в	S	S	Sp-a	1	3-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	предик	_	_
+2	в	в	S	S	Sp-a	1	атриб	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	3-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	аппоз	_	_
+5	во	во	S	S	Sp-n	1	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	предик	_	_
+2	в	в	S	S	Sp-a	5	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-a	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	предик	_	_
+2	во	во	S	S	Sp-n	5	обст	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	во	во	S	S	Sp-n	3	вспом	_	_
+3	в	в	S	S	Sp-a	6	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	во	во	S	S	Sp-l	4	обст	_	_
+3	в	век	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	во	во	S	S	Sp-l	4	обст	_	_
+3	в	век	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	во	во	S	S	Sp-n	6	обст	_	_
+3	в	в	S	S	Sp-a	6	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	предик	_	_
+2	во	во	S	S	Sp-n	5	обст	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	атриб	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	во	во	S	S	Sp-a	1	атриб	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	в	в	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	обст	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	атриб	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	аппоз	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	предик	_	_
+2	во	во	S	S	Sp-a	5	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	в	в	S	S	Sp-a	4	атриб	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	предик	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	в	в	S	S	Sp-a	4	атриб	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	в	в	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	предик	_	_
+2	во	во	S	S	Sp-a	1	атриб	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	в	в	S	S	Sp-a	3	атриб	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	предик	_	_
+2	во	во	S	S	Sp-a	1	атриб	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	атриб	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	аппоз	_	_
+5	в	в	S	S	Sp-n	1	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	предик	_	_
+2	во	во	S	S	Sp-a	5	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	предик	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-n	5	обст	_	_
+4	во	во	S	S	Sp-n	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-n	0	ROOT	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-n	0	ROOT	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	во	во	S	S	Sp-a	4	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	5	опред	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	предл	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-a	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	во	во	S	S	Sp-n	3	сочин	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	в	век	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-n	6	обст	_	_
+4	в	в	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-n	4	обст	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-a	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-n	3	обст	_	_
+5	во	во	S	S	Sp-a	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-a	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-a	3	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-a	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	в	в	S	S	Sp-n	4	2-компл	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предл	_	_
+4	в	в	S	S	Sp-n	6	обст	_	_
+5	во	во	S	S	Sp-n	3	аппрокс-колич	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	в	век	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	вспом	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-n	2	обст	_	_
+4	во	во	S	S	Sp-a	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-n	2	обст	_	_
+4	во	во	S	S	Sp-a	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	во	во	S	S	Sp-a	2	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	во	во	S	S	Sp-a	2	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	разъяснит	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-n	2	обст	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-n	2	обст	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-a	2	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	в	в	S	S	Sp-a	2	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-a	2	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-a	2	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	в	в	S	S	Sp-a	2	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-a	2	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	в	в	S	S	Sp-n	2	обст	_	_
+5	во	во	S	S	Sp-a	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	в	в	S	S	Sp-a	2	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	во	во	S	S	Sp-n	2	обст	_	_
+5	в	в	S	S	Sp-a	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	во	во	S	S	Sp-a	2	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	разъяснит	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	атриб	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-a	2	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	неакт-компл	_	_
+4	в	в	S	S	Sp-a	3	атриб	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	вспом	_	_
+4	во	во	S	S	Sp-n	2	обст	_	_
+5	в	в	S	S	Sp-a	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	атриб	_	_
+4	во	во	S	S	Sp-a	3	атриб	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	в	в	S	S	Sp-n	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	во	во	S	S	Sp-l	2	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	аппоз	_	_
+3	в	в	S	S	Sp-n	0	ROOT	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	в	в	S	S	Sp-n	5	обст	_	_
+4	во	во	S	S	Sp-n	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	во	во	S	S	Sp-n	2	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	во	во	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	6	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	во	во	S	S	Sp-n	6	обст	_	_
+4	в	в	S	S	Sp-a	6	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	в	век	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	во	во	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	в	в	S	S	Sp-n	2	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	огранич	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	в	в	S	S	Sp-n	6	обст	_	_
+5	во	во	S	S	Sp-n	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	2	огранич	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	в	век	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	вспом	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-n	3	обст	_	_
+5	во	во	S	S	Sp-a	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-a	3	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-a	3	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	в	в	S	S	Sp-n	4	вспом	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Иране	иран	N	N	Ncmsln	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	5	обст	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	6	обст	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	4	обст	_	_
+2	в	в	S	S	Sp-l	4	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	0	ROOT	_	_
+2	в	в	S	S	Sp-l	4	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	4	присвяз	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	6	1-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	4	вспом	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	2	вспом	_	_
+2	в	в	S	S	Sp-a	5	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	2	вспом	_	_
+2	в	в	S	S	Sp-a	6	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	0	ROOT	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	1	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	0	ROOT	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	2	вспом	_	_
+2	в	в	S	S	Sp-a	6	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	композ	_	_
+5	Иране	иран	N	N	Ncmsln	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	2	вспом	_	_
+2	в	в	S	S	Sp-a	5	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	в	век	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	в	век	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	в	век	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	атриб	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	3	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	в	век	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	в	век	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	атриб	_	_
+6	вторник	вторник	N	N	Ncmsan	4	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	в	век	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	6	обст	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	5	обст	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	6	обст	_	_
+2	в	в	S	S	Sp-a	1	1-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	композ	_	_
+5	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	5	обст	_	_
+2	в	в	S	S	Sp-a	1	1-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	0	ROOT	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	1	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-n	4	обст	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	в	в	S	S	Sp-a	6	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	5	опред	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	в	в	S	S	Sp-a	6	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+4	в	в	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsnn	5	огранич	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	в	в	S	S	Sp-a	4	атриб	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	аппоз	_	_
+6	в	в	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	в	в	S	S	Sp-a	4	атриб	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	3	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	в	в	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+5	в	в	S	S	Sp-n	3	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	1	сент-соч	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	5	огранич	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	5	1-компл	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-n	0	ROOT	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	5	опред	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-l	6	обст	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	6	предик	_	_
+4	в	в	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	4	обст	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	4	опред	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-l	3	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-l	3	1-компл	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	предик	_	_
+5	в	в	S	S	Sp-a	3	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	предик	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	3	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	в	в	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	6	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	5	предл	_	_
+5	в	в	S	S	Sp-n	1	сочин	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	5	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	композ	_	_
+4	Иране	иран	N	N	Ncmsln	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-l	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	4	обст	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	вводн	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	вводн	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	6	об-аппоз	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	вводн	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	1-компл	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	2	неакт-компл	_	_
+4	в	в	S	S	Sp-a	2	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	2	неакт-компл	_	_
+4	в	в	S	S	Sp-a	2	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	в	в	S	S	Sp-a	4	атриб	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	4	обст	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предл	_	_
+6	в	в	S	S	Sp-n	4	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	1	предл	_	_
+3	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	в	в	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+4	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+5	в	в	S	S	Sp-a	2	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+4	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	атриб	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предик	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	3	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+4	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+5	в	в	S	S	Sp-a	2	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+4	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+5	вторник	вторник	N	N	Ncmsan	3	аппоз	_	_
+6	в	в	S	S	Sp-n	5	распред	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	в	в	S	S	Sp-l	3	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	Q	Q	Q	2	огранич	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	6	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	аппоз	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	6	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	в	в	S	S	Sp-a	6	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	6	2-компл	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	6	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	в	в	S	S	Sp-a	6	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	5	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	6	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+5	в	в	S	S	Sp-n	1	сочин	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	5	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	4	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-l	4	обст	_	_
+2	землятресение	<unknown>	A	A	Afpmslf	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	6	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	6	предик	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	композ	_	_
+4	Иране	иран	N	N	Ncmsln	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-l	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	4	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-l	3	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	предик	_	_
+5	в	в	S	S	Sp-a	3	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Во	во	S	S	Sp-a	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsan	1	предл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	во	во	S	S	Sp-n	1	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	во	во	S	S	Sp-a	1	уточн	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-a	4	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	вспом	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	во	во	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-n	0	ROOT	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+2	в	в	S	S	Sp-n	6	обст	_	_
+3	во	во	S	S	Sp-l	5	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	в	в	S	S	Sp-n	4	обст	_	_
+3	во	во	S	S	Sp-l	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	в	в	S	S	Sp-n	4	обст	_	_
+3	во	во	S	S	Sp-n	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-n	0	ROOT	_	_
+3	во	во	S	S	Sp-l	6	обст	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	в	в	S	S	Sp-n	5	обст	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	во	во	S	S	Sp-a	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	во	во	S	S	Sp-l	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	во	во	S	S	Sp-l	3	1-компл	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	2	предл	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	2	предл	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	во	во	S	S	Sp-n	0	ROOT	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	в	в	S	S	Sp-l	5	обст	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-a	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	во	во	S	S	Sp-n	4	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	в	в	S	S	Sp-n	5	обст	_	_
+4	во	во	S	S	Sp-n	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	в	в	S	S	Sp-n	0	ROOT	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	во	во	S	S	Sp-a	4	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	в	в	S	S	Sp-a	2	атриб	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	во	во	S	S	Sp-n	0	ROOT	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	в	век	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	вспом	_	_
+2	Иране	иран	N	N	Ncmsln	6	предик	_	_
+3	во	во	S	S	Sp-n	6	обст	_	_
+4	в	в	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	сочин	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	во	во	S	S	Sp-a	2	атриб	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	вспом	_	_
+2	Иране	иран	N	N	Ncmsln	5	предик	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-n	3	обст	_	_
+5	во	во	S	S	Sp-a	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-a	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-n	3	обст	_	_
+5	в	в	S	S	Sp-a	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-a	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	опред	_	_
+5	в	в	S	S	Sp-n	4	2-компл	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	атриб	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предл	_	_
+4	в	в	S	S	Sp-n	6	обст	_	_
+5	во	во	S	S	Sp-n	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	в	век	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	вспом	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	во	во	S	S	Sp-n	5	обст	_	_
+3	в	в	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	во	во	S	S	Sp-n	3	огранич	_	_
+3	в	в	S	S	Sp-l	1	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	4	обст	_	_
+3	в	век	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	4	обст	_	_
+3	в	век	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+2	во	во	S	S	Sp-n	3	огранич	_	_
+3	в	в	S	S	Sp-l	6	обст	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	во	во	S	S	Sp-n	5	обст	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	в	в	S	S	Sp-n	1	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	в	в	S	S	Sp-a	1	уточн	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	атриб	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+2	во	во	S	S	Sp-n	6	обст	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	в	в	S	S	Sp-l	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-n	0	ROOT	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	в	в	S	S	Sp-l	3	1-компл	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	в	в	S	S	Sp-a	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	2	предл	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	во	во	S	S	Sp-a	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	2	сент-соч	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-a	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	в	в	S	S	Sp-n	1	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	во	во	S	S	Sp-l	5	обст	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-l	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	в	в	S	S	Sp-n	4	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	во	во	S	S	Sp-a	2	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-n	2	обст	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-n	2	обст	_	_
+4	во	во	S	S	Sp-l	0	ROOT	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	1-компл	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	во	во	S	S	Sp-n	2	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	обст	_	_
+4	в	в	S	S	Sp-n	2	обст	_	_
+5	во	во	S	S	Sp-a	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	неакт-компл	_	_
+4	в	в	S	S	Sp-a	2	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	обст	_	_
+4	во	во	S	S	Sp-n	2	обст	_	_
+5	в	в	S	S	Sp-a	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	обст	_	_
+4	во	во	S	S	Sp-a	2	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	2-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	2-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-n	2	обст	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-n	2	обст	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	в	в	S	S	Sp-a	2	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-a	2	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-l	2	обст	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	в	в	S	S	Sp-n	2	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	атриб	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	во	во	S	S	Sp-n	2	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	атриб	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-l	2	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	в	в	S	S	Sp-n	2	обст	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	во	во	S	S	Sp-l	2	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	вспом	_	_
+4	во	во	S	S	Sp-n	2	обст	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	атриб	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	в	в	S	S	Sp-n	2	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	во	во	S	S	Sp-n	2	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	огранич	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+3	в	в	S	S	Sp-n	0	ROOT	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предл	_	_
+3	в	в	S	S	Sp-n	5	обст	_	_
+4	во	во	S	S	Sp-l	2	аппрокс-колич	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	во	во	S	S	Sp-n	1	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	во	во	S	S	Sp-l	4	1-компл	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+4	в	в	S	S	Sp-n	6	обст	_	_
+5	во	во	S	S	Sp-n	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	квазиагент	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	в	век	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	опред	_	_
+3	Иране	иран	N	N	Ncmsln	1	предл	_	_
+4	во	во	S	S	Sp-n	1	уточн	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	композ	_	_
+3	Иране	иран	N	N	Ncmsln	1	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	1-компл	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	4	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	композ	_	_
+3	Иране	иран	N	N	Ncmsln	1	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+3	во	во	S	S	Sp-n	6	обст	_	_
+4	в	в	S	S	Sp-l	6	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	в	век	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	2	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	в	в	S	S	Sp-n	2	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	5	огранич	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	в	в	S	S	Sp-l	4	1-компл	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	6	предик	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	6	предл	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	в	в	S	S	Sp-n	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-l	3	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	во	во	S	S	Sp-n	3	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	1	1-компл	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-l	3	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+5	в	в	S	S	Sp-n	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	1	1-компл	_	_
+4	Иране	иран	N	N	Ncmsln	3	обст	_	_
+5	во	во	S	S	Sp-l	3	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	огранич	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-n	3	обст	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Вторник	вторник	N	N	Ncmsnn	3	обст	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-l	3	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	в	в	S	S	Sp-n	3	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	во	во	S	S	Sp-a	1	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	во	во	S	S	Sp-a	1	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	во	во	S	S	Sp-a	4	атриб	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	обст	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	обст	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	2	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	обст	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	2	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	обст	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	обст	_	_
+3	во	во	S	S	Sp-l	6	обст	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	обст	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	во	во	S	S	Sp-a	4	атриб	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+2	в	в	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-l	1	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-l	1	обст	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	во	во	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	во	во	S	S	Sp-a	1	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	2	опред	_	_
+2	Иране	иран	N	N	Ncmsln	4	предик	_	_
+3	в	в	S	S	Sp-n	4	огранич	_	_
+4	во	во	S	S	Sp-a	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	4	вводн	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	2	опред	_	_
+2	Иране	иран	N	N	Ncmsln	6	предик	_	_
+3	в	в	S	S	Sp-n	4	огранич	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	в	в	S	S	Sp-a	1	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	во	во	S	S	Sp-a	1	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	в	в	S	S	Sp-a	1	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	в	в	S	S	Sp-a	1	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	в	в	S	S	Sp-a	1	2-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	во	во	S	S	Sp-n	1	обст	_	_
+4	в	в	S	S	Sp-a	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	во	во	S	S	Sp-n	1	обст	_	_
+4	в	в	S	S	Sp-a	3	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	во	во	S	S	Sp-a	1	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	в	в	S	S	Sp-a	1	2-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	во	во	S	S	Sp-a	1	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	во	во	S	S	Sp-a	1	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	в	в	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	во	во	S	S	Sp-a	1	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+4	в	в	S	S	Sp-a	1	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	5	вводн	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-a	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-a	1	1-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	аппоз	_	_
+5	в	в	S	S	Sp-n	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	3	аппоз	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-a	3	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+4	во	во	S	S	Sp-a	3	атриб	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	в	в	S	S	Sp-n	3	2-компл	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	во	во	S	S	Sp-l	3	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	обст	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	обст	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	обст	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	2	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	обст	_	_
+3	в	в	S	S	Sp-a	5	огранич	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+6	Иране	иран	N	N	Ncmsln	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	обст	_	_
+3	в	в	S	S	Sp-l	6	огранич	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-n	1	обст	_	_
+3	в	в	S	S	Sp-a	5	огранич	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	в	в	S	S	Sp-a	1	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	в	в	S	S	Sp-a	1	2-компл	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	в	в	S	S	Sp-a	1	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	4	аппоз	_	_
+6	в	в	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	обст	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	в	в	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	в	в	S	S	Sp-l	1	обст	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+2	во	во	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	атриб	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+2	во	во	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	6	обст	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	6	предл	_	_
+6	в	в	S	S	Sp-n	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	в	в	S	S	Sp-n	4	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	1-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	1-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	в	в	S	S	Sp-a	1	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	обст	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	в	в	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	обст	_	_
+3	землятресение	<unknown>	A	A	Afpmslf	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	1-компл	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	обст	_	_
+3	землятресение	<unknown>	N	N	Ncnsan	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	в	в	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	разъяснит	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	в	в	S	S	Sp-n	4	огранич	_	_
+4	во	во	S	S	Sp-l	1	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	в	в	S	S	Sp-n	2	вспом	_	_
+4	во	во	S	S	Sp-l	0	ROOT	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	во	во	S	S	Sp-n	2	уточн	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	в	в	S	S	Sp-a	1	1-компл	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+4	в	в	S	S	Sp-a	3	атриб	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	5	вводн	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-a	0	ROOT	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+4	во	во	S	S	Sp-a	3	атриб	_	_
+5	землятресение	<unknown>	N	N	Ncnsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	1	разъяснит	_	_
+5	в	в	S	S	Sp-n	4	вспом	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+4	землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	во	во	S	S	Sp-n	4	огранич	_	_
+4	в	в	S	S	Sp-l	1	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	в	в	S	S	Sp-l	0	ROOT	_	_
+5	землятресение	<unknown>	A	A	Afpmslf	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	в	в	S	S	Sp-a	1	1-компл	_	_
+6	землятресение	<unknown>	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	землятресение	<unknown>	N	N	Ncnsnn	1	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	во	во	S	S	Sp-a	1	обст	_	_
+4	землятресение	<unknown>	N	N	Ncnsan	3	предл	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	землятресение	<unknown>	A	A	Afpmslf	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	в	в	S	S	Sp-n	2	уточн	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	аппоз	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	во	во	S	S	Sp-n	2	уточн	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	аппоз	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-l	1	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	в	в	S	S	Sp-n	1	обст	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	во	во	S	S	Sp-l	1	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	аппоз	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-l	1	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+3	землятресение	<unknown>	N	N	Ncnsnn	2	аппоз	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	в	в	S	S	Sp-n	3	распред	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	аппоз	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	в	в	S	S	Sp-n	4	огранич	_	_
+4	во	во	S	S	Sp-a	2	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	во	во	S	S	Sp-l	2	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+4	в	в	S	S	Sp-a	1	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	аппоз	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	квазиагент	_	_
+4	во	во	S	S	Sp-a	2	атриб	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	атриб	_	_
+4	вторник	вторник	N	N	Ncmsan	2	аппоз	_	_
+5	в	в	S	S	Sp-n	1	обст	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	Иране	иран	N	N	Ncmsln	2	атриб	_	_
+4	вторник	вторник	N	N	Ncmsan	2	аппоз	_	_
+5	во	во	S	S	Sp-l	2	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	во	во	S	S	Sp-n	4	огранич	_	_
+4	в	в	S	S	Sp-l	2	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	во	во	S	S	Sp-n	4	вспом	_	_
+4	в	в	S	S	Sp-a	2	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	в	в	S	S	Sp-a	1	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	аппоз	_	_
+6	в	в	S	S	Sp-n	5	распред	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	во	во	S	S	Sp-a	2	атриб	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	во	во	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	в	в	S	S	Sp-l	2	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	во	во	S	S	Sp-n	2	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	в	в	S	S	Sp-n	5	огранич	_	_
+5	во	во	S	S	Sp-l	2	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	в	в	S	S	Sp-n	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	вторник	вторник	N	N	Ncmsan	2	аппоз	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-l	1	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+2	землятресение	<unknown>	N	N	Ncnsnn	1	предик	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	во	во	S	S	Sp-l	2	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	в	в	S	S	Sp-n	2	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	во	во	S	S	Sp-a	1	4-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	во	во	S	S	Sp-n	1	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	аппоз	_	_
+5	во	во	S	S	Sp-n	1	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	аппоз	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-a	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	в	в	S	S	Sp-n	6	обст	_	_
+3	во	во	S	S	Sp-l	5	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	в	в	S	S	Sp-n	5	обст	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-n	0	ROOT	_	_
+3	во	во	S	S	Sp-a	6	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	в	в	S	S	Sp-n	5	обст	_	_
+3	во	во	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	в	в	S	S	Sp-n	4	обст	_	_
+3	во	во	S	S	Sp-l	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	в	в	S	S	Sp-n	4	обст	_	_
+3	во	во	S	S	Sp-n	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	во	во	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	5	предик	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	1	1-компл	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-a	1	2-компл	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-l	1	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	во	во	S	S	Sp-n	4	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	в	в	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	во	во	S	S	Sp-a	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	в	в	S	S	Sp-l	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	во	во	S	S	Sp-l	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	во	во	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	в	в	S	S	Sp-n	0	ROOT	_	_
+4	во	во	S	S	Sp-a	6	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	аппоз	_	_
+3	в	в	S	S	Sp-n	5	обст	_	_
+4	во	во	S	S	Sp-n	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	в	в	S	S	Sp-a	2	атриб	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	во	во	S	S	Sp-n	0	ROOT	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	1-компл	_	_
+3	в	в	S	S	Sp-a	1	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	в	в	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	во	во	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	1-компл	_	_
+3	в	в	S	S	Sp-n	1	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	во	во	S	S	Sp-n	6	обст	_	_
+4	в	в	S	S	Sp-a	6	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	в	век	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предик	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	во	во	S	S	Sp-a	2	атриб	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	в	в	S	S	Sp-n	1	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	во	во	S	S	Sp-a	1	уточн	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	во	во	S	S	Sp-n	2	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	сочин	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	Иране	иран	N	N	Ncmsln	6	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	в	в	S	S	Sp-n	6	обст	_	_
+5	во	во	S	S	Sp-n	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	Иране	иран	N	N	Ncmsln	6	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	в	век	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	1	предик	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	4	предл	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	вспом	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	обст	_	_
+2	Иране	иран	N	N	Ncmsln	1	предл	_	_
+3	вторник	вторник	N	N	Ncmsan	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-n	3	обст	_	_
+5	во	во	S	S	Sp-a	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-n	3	обст	_	_
+5	в	в	S	S	Sp-a	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-a	3	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	в	в	S	S	Sp-n	3	обст	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	во	во	S	S	Sp-n	3	огранич	_	_
+3	в	в	S	S	Sp-l	1	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	1	аппоз	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	во	во	S	S	Sp-n	5	обст	_	_
+3	в	в	S	S	Sp-l	5	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	во	во	S	S	Sp-n	3	вспом	_	_
+3	в	в	S	S	Sp-a	1	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	во	во	S	S	Sp-n	5	обст	_	_
+3	в	в	S	S	Sp-a	5	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	4	обст	_	_
+3	в	век	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	4	обст	_	_
+3	в	век	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	Иране	иран	N	N	Ncmsln	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	в	в	S	S	Sp-a	1	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	в	в	S	S	Sp-n	1	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	вторник	вторник	N	N	Ncmsan	5	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+5	в	в	S	S	Sp-n	1	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	вторник	вторник	N	N	Ncmsan	1	аппоз	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-a	4	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	вторник	вторник	N	N	Ncmsan	4	1-компл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	во	во	S	S	Sp-a	1	2-компл	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	атриб	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	6	опред	_	_
+6	Иране	иран	N	N	Ncmsln	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-a	1	2-компл	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+5	в	в	S	S	Sp-n	4	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	во	во	S	S	Sp-a	1	2-компл	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-l	4	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	во	во	S	S	Sp-a	4	обст	_	_
+3	вторник	вторник	N	N	Ncmsan	2	предл	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	Иране	иран	N	N	Ncmsln	4	обст	_	_
+6	в	в	S	S	Sp-n	4	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	в	в	S	S	Sp-l	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	2	предл	_	_
+4	Иране	иран	N	N	Ncmsln	3	неакт-компл	_	_
+5	в	в	S	S	Sp-a	3	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	во	во	S	S	Sp-l	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	4	опред	_	_
+4	Иране	иран	N	N	Ncmsln	2	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	во	во	S	S	Sp-n	1	атриб	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	вторник	вторник	N	N	Ncmsan	3	1-компл	_	_
+5	Иране	иран	N	N	Ncmsln	4	сочин	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	в	в	S	S	Sp-l	1	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	во	во	S	S	Sp-n	0	ROOT	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	в	в	S	S	Sp-n	0	ROOT	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	в	в	S	S	Sp-n	5	обст	_	_
+4	во	во	S	S	Sp-l	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	в	в	S	S	Sp-l	1	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	5	опред	_	_
+5	Иране	иран	N	N	Ncmsln	3	предл	_	_
+6	во	во	S	S	Sp-n	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	в	в	S	S	Sp-n	1	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	во	во	S	S	Sp-l	4	1-компл	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	Иране	иран	N	N	Ncmsln	1	сочин	_	_
+4	в	в	S	S	Sp-n	6	обст	_	_
+5	во	во	S	S	Sp-n	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+4	в	в	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	Иране	иран	N	N	Ncmsln	2	предл	_	_
+4	во	во	S	S	Sp-l	6	обст	_	_
+5	в	век	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+4	во	во	S	S	Sp-n	3	атриб	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	4	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	Иране	иран	N	N	Ncmsln	2	сочин	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+5	в	в	S	S	Sp-n	4	1-компл	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	Иране	иран	N	N	Ncmsln	4	предик	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	1	примыкат	_	_
+5	во	во	S	S	Sp-l	4	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	во	во	S	S	Sp-n	6	обст	_	_
+4	в	в	S	S	Sp-l	6	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	во	во	S	S	Sp-l	5	обст	_	_
+4	в	век	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	Иране	иран	N	N	Ncmsln	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	во	во	S	S	Sp-l	1	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	в	в	S	S	Sp-n	1	атриб	_	_
+6	произошло	произойти	V	V	Vmis-sna-p	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	5	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	во	во	S	S	Sp-l	2	атриб	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+6	в	в	S	S	Sp-n	5	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	0	ROOT	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	во	во	S	S	Sp-n	1	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	в	в	S	S	Sp-l	4	1-компл	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	6	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	во	во	S	S	Sp-l	1	атриб	_	_
+4	произошло	произойти	V	V	Vmis-sna-p	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	4	аппоз	_	_
+6	в	в	S	S	Sp-n	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-l	3	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	во	во	S	S	Sp-n	3	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	в	в	S	S	Sp-n	3	обст	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	обст	_	_
+5	в	в	S	S	Sp-n	3	обст	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	Иране	иран	N	N	Ncmsln	3	обст	_	_
+5	во	во	S	S	Sp-l	3	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-n	3	обст	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	3	предик	_	_
+2	вторник	вторник	N	N	Ncmsan	1	1-компл	_	_
+3	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+4	во	во	S	S	Sp-l	3	обст	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	в	в	S	S	Sp-n	3	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	во	во	S	S	Sp-a	2	обст	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	разъяснит	_	_
+6	во	во	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-n	2	обст	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-n	2	обст	_	_
+4	во	во	S	S	Sp-a	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	2	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	2	обст	_	_
+6	во	во	S	S	Sp-n	2	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	в	в	S	S	Sp-a	2	2-компл	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	во	во	S	S	Sp-l	2	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	обст	_	_
+4	в	в	S	S	Sp-n	2	обст	_	_
+5	во	во	S	S	Sp-a	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	неакт-компл	_	_
+4	в	в	S	S	Sp-a	2	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	во	во	S	S	Sp-n	5	вспом	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	обст	_	_
+4	во	во	S	S	Sp-n	2	обст	_	_
+5	в	в	S	S	Sp-a	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	обст	_	_
+4	во	во	S	S	Sp-a	2	обст	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	2	разъяснит	_	_
+5	в	в	S	S	Sp-n	4	вспом	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	Иране	иран	N	N	Ncmsln	2	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	во	во	S	S	Sp-l	2	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-n	2	обст	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-n	2	обст	_	_
+4	в	в	S	S	Sp-a	3	2-компл	_	_
+5	вторник	вторник	N	N	Ncmsan	4	предл	_	_
+6	Иране	иран	N	N	Ncmsln	5	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	в	в	S	S	Sp-a	2	2-компл	_	_
+6	вторник	вторник	N	N	Ncmsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-l	2	обст	_	_
+4	Иране	иран	N	N	Ncmsln	3	предл	_	_
+5	вторник	вторник	N	N	Ncmsan	2	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-a	2	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	во	во	S	S	Sp-a	2	обст	_	_
+4	вторник	вторник	N	N	Ncmsan	3	предл	_	_
+5	Иране	иран	N	N	Ncmsln	2	разъяснит	_	_
+6	в	в	S	S	Sp-n	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	во	во	S	S	Sp-n	2	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	в	в	S	S	Sp-n	2	обст	_	_
+5	во	во	S	S	Sp-l	4	атриб	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	Иране	иран	N	N	Ncmsln	3	сочин	_	_
+5	в	в	S	S	Sp-n	0	ROOT	_	_
+6	во	во	S	S	Sp-n	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	Иране	иран	N	N	Ncmsln	3	атриб	_	_
+5	во	во	S	S	Sp-l	2	обст	_	_
+6	в	век	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	во	во	S	S	Sp-n	5	огранич	_	_
+5	в	в	S	S	Sp-l	2	обст	_	_
+6	Иране	иран	N	N	Ncmsln	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Землятресение	<unknown>	N	N	Ncnsnn	2	предик	_	_
+2	произошло	произойти	V	V	Vmis-sna-p	0	ROOT	_	_
+3	вторник	вторник	N	N	Ncmsan	2	1-компл	_	_
+4	во	во	S	S	Sp-l	3	атриб	_	_
+5	Иране	иран	N	N	Ncmsln	4	предл	_	_
+6	в	в	S	S	Sp-n	2	обст	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+

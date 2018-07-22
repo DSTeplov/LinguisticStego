@@ -1,0 +1,840 @@
+1	кот	кот	N	N	Ncmsny	5	предик	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	на	на	S	S	Sp-a	1	атриб	_	_
+4	пушистый	пушистый	A	A	Afpmsaf	3	предл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	4	предик	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	на	на	S	S	Sp-n	1	атриб	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	суб-копр	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	5	предик	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	предл	_	_
+4	на	на	S	S	Sp-n	1	атриб	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	0	ROOT	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	1	разъяснит	_	_
+5	на	на	S	S	Sp-n	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	3	предик	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	на	на	S	S	Sp-a	3	1-компл	_	_
+5	пушистый	пушистый	A	A	Afpmsaf	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	3	предик	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	на	на	S	S	Sp-n	3	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	0	ROOT	_	_
+2	на	на	S	S	Sp-l	1	атриб	_	_
+3	кухне	кухня	N	N	Ncfsln	2	предл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	предик	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	1	разъяснит	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	4	предик	_	_
+2	на	на	S	S	Sp-l	1	атриб	_	_
+3	кухне	кухня	N	N	Ncfsln	2	предл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	суб-копр	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	5	предик	_	_
+2	на	на	S	S	Sp-a	1	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsaf	4	опред	_	_
+4	кухне	кухня	N	N	Ncfsln	2	предл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	4	предик	_	_
+2	на	на	S	S	Sp-a	1	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsaf	2	предл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	0	ROOT	_	_
+2	на	на	S	S	Sp-l	1	атриб	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	5	эксплет	_	_
+4	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	2	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	3	предик	_	_
+2	на	на	S	S	Sp-n	1	1-компл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	5	предик	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+4	на	на	S	S	Sp-n	1	атриб	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	4	предик	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	на	на	S	S	Sp-n	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	5	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	5	предик	_	_
+3	на	на	S	S	Sp-l	2	атриб	_	_
+4	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	0	ROOT	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	0	ROOT	_	_
+3	на	на	S	S	Sp-l	2	атриб	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	5	опред	_	_
+5	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	3	кратно-длительн	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+5	на	на	S	S	Sp-n	3	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	3	кратно-длительн	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	на	на	S	S	Sp-l	3	1-компл	_	_
+5	кухне	кухня	N	N	Ncfsln	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	на	на	S	S	Sp-a	2	2-компл	_	_
+5	пушистый	пушистый	A	A	Afpmsaf	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	на	на	S	S	Sp-n	2	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	на	на	S	S	Sp-l	2	1-компл	_	_
+4	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	2	суб-копр	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	на	на	S	S	Sp-a	2	1-компл	_	_
+4	пушистый	пушистый	A	A	Afpmsaf	5	опред	_	_
+5	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+5	на	на	S	S	Sp-n	2	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кот	кот	N	N	Ncmsny	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	2	суб-копр	_	_
+4	на	на	S	S	Sp-l	2	1-компл	_	_
+5	кухне	кухня	N	N	Ncfsln	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	5	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	5	предик	_	_
+3	на	на	S	S	Sp-a	2	1-компл	_	_
+4	пушистый	пушистый	A	A	Afpmsaf	3	предл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	4	предик	_	_
+3	на	на	S	S	Sp-n	2	1-компл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	5	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	5	предик	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	предл	_	_
+4	на	на	S	S	Sp-n	2	атриб	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	4	предик	_	_
+2	кот	кот	N	N	Ncmsny	4	кратно-длительн	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	на	на	S	S	Sp-n	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	на	на	S	S	Sp-a	3	1-компл	_	_
+5	пушистый	пушистый	A	A	Afpmsaf	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	на	на	S	S	Sp-n	3	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	5	предик	_	_
+2	на	на	S	S	Sp-n	5	1-компл	_	_
+3	кот	кот	N	N	Ncmsny	2	предл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	предик	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	4	предик	_	_
+2	на	на	S	S	Sp-n	4	1-компл	_	_
+3	кот	кот	N	N	Ncmsny	2	предл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	суб-копр	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	5	предик	_	_
+2	на	на	S	S	Sp-n	5	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кот	кот	N	N	Ncmsny	2	предл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	4	2-компл	_	_
+2	на	на	S	S	Sp-a	4	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsaf	2	предл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кот	кот	N	N	Ncmsny	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	0	ROOT	_	_
+2	на	на	S	S	Sp-n	0	ROOT	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	4	опред	_	_
+4	кот	кот	N	N	Ncmsny	2	предл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	аппоз	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	3	кратно-длительн	_	_
+2	на	на	S	S	Sp-n	3	1-компл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кот	кот	N	N	Ncmsny	3	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	5	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кот	кот	N	N	Ncmsny	5	предик	_	_
+4	на	на	S	S	Sp-n	3	атриб	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кот	кот	N	N	Ncmsny	4	предик	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	на	на	S	S	Sp-n	4	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	5	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	5	предик	_	_
+3	на	на	S	S	Sp-n	2	атриб	_	_
+4	кот	кот	N	N	Ncmsny	3	предл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+3	на	на	S	S	Sp-n	2	атриб	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кот	кот	N	N	Ncmsny	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кот	кот	N	N	Ncmsny	3	предик	_	_
+5	на	на	S	S	Sp-n	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	на	на	S	S	Sp-n	3	1-компл	_	_
+5	кот	кот	N	N	Ncmsny	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кот	кот	N	N	Ncmsny	2	предик	_	_
+4	на	на	S	S	Sp-a	3	1-компл	_	_
+5	пушистый	пушистый	A	A	Afpmsaf	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кот	кот	N	N	Ncmsny	2	предик	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	на	на	S	S	Sp-n	3	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	на	на	S	S	Sp-n	2	1-компл	_	_
+4	кот	кот	N	N	Ncmsny	3	предл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	аппоз	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	на	на	S	S	Sp-n	2	1-компл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кот	кот	N	N	Ncmsny	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кот	кот	N	N	Ncmsny	2	предик	_	_
+5	на	на	S	S	Sp-n	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	0	ROOT	_	_
+4	на	на	S	S	Sp-n	3	атриб	_	_
+5	кот	кот	N	N	Ncmsny	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	5	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	1	предл	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	предик	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	4	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	1	предл	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	5	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	1	предл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	4	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	1	предл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кухне	кухня	N	N	Ncfsln	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	3	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	1	предл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кухне	кухня	N	N	Ncfsln	3	предик	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	3	суб-копр	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	3	1-компл	_	_
+2	кот	кот	N	N	Ncmsny	1	предл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кухне	кухня	N	N	Ncfsln	3	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	5	1-компл	_	_
+2	кухне	кухня	N	N	Ncfsln	1	предл	_	_
+3	кот	кот	N	N	Ncmsny	5	суб-обст	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	предик	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	4	1-компл	_	_
+2	кухне	кухня	N	N	Ncfsln	1	предл	_	_
+3	кот	кот	N	N	Ncmsny	4	предик	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	5	1-компл	_	_
+2	кухне	кухня	N	N	Ncfsln	1	предл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кот	кот	N	N	Ncmsny	5	предик	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	4	1-компл	_	_
+2	кухне	кухня	N	N	Ncfsln	1	предл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кот	кот	N	N	Ncmsny	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	3	1-компл	_	_
+2	кухне	кухня	N	N	Ncfsln	1	предл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кот	кот	N	N	Ncmsny	3	предик	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	3	1-компл	_	_
+2	кухне	кухня	N	N	Ncfsln	1	предл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кот	кот	N	N	Ncmsny	3	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	5	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кот	кот	N	N	Ncmsny	1	предл	_	_
+4	кухне	кухня	N	N	Ncfsln	3	аппоз	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	4	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кот	кот	N	N	Ncmsny	1	предл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кухне	кухня	N	N	Ncfsln	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-a	5	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsaf	3	опред	_	_
+3	кухне	кухня	N	N	Ncfsln	1	предл	_	_
+4	кот	кот	N	N	Ncmsny	5	предик	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-a	4	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsaf	3	опред	_	_
+3	кухне	кухня	N	N	Ncfsln	1	предл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кот	кот	N	N	Ncmsny	4	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-a	3	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsaf	1	предл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кот	кот	N	N	Ncmsny	3	предик	_	_
+5	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-a	3	1-компл	_	_
+2	пушистый	пушистый	A	A	Afpmsaf	1	предл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кухне	кухня	N	N	Ncfsln	3	предик	_	_
+5	кот	кот	N	N	Ncmsny	3	вводн	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	0	ROOT	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кот	кот	N	N	Ncmsny	2	предик	_	_
+4	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	3	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	0	ROOT	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кот	кот	N	N	Ncmsny	2	предик	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	0	ROOT	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	4	опред	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	кот	кот	N	N	Ncmsny	1	предл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	аппоз	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-l	0	ROOT	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	5	опред	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кот	кот	N	N	Ncmsny	1	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	0	ROOT	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кот	кот	N	N	Ncmsny	2	предик	_	_
+5	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	на	на	S	S	Sp-n	0	ROOT	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	5	опред	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+5	кот	кот	N	N	Ncmsny	1	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кот	кот	N	N	Ncmsny	5	предик	_	_
+3	кухне	кухня	N	N	Ncfsln	2	сочин	_	_
+4	на	на	S	S	Sp-n	3	атриб	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кот	кот	N	N	Ncmsny	4	предик	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	на	на	S	S	Sp-n	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кот	кот	N	N	Ncmsny	5	предик	_	_
+3	на	на	S	S	Sp-l	2	атриб	_	_
+4	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кот	кот	N	N	Ncmsny	0	ROOT	_	_
+3	на	на	S	S	Sp-l	2	атриб	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	5	опред	_	_
+5	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кот	кот	N	N	Ncmsny	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+5	на	на	S	S	Sp-n	3	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кот	кот	N	N	Ncmsny	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	на	на	S	S	Sp-l	3	1-компл	_	_
+5	кухне	кухня	N	N	Ncfsln	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кухне	кухня	N	N	Ncfsln	5	предик	_	_
+3	кот	кот	N	N	Ncmsny	4	предл	_	_
+4	на	на	S	S	Sp-n	5	1-компл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+3	кот	кот	N	N	Ncmsny	4	предик	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	на	на	S	S	Sp-n	4	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кухне	кухня	N	N	Ncfsln	5	предик	_	_
+3	на	на	S	S	Sp-n	5	1-компл	_	_
+4	кот	кот	N	N	Ncmsny	3	предл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кухне	кухня	N	N	Ncfsln	0	ROOT	_	_
+3	на	на	S	S	Sp-n	0	ROOT	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	5	опред	_	_
+5	кот	кот	N	N	Ncmsny	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кот	кот	N	N	Ncmsny	3	предик	_	_
+5	на	на	S	S	Sp-n	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+2	кухне	кухня	N	N	Ncfsln	3	предик	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	на	на	S	S	Sp-n	3	1-компл	_	_
+5	кот	кот	N	N	Ncmsny	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	5	предик	_	_
+2	на	на	S	S	Sp-n	1	атриб	_	_
+3	кот	кот	N	N	Ncmsny	2	предл	_	_
+4	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+2	на	на	S	S	Sp-n	1	атриб	_	_
+3	кот	кот	N	N	Ncmsny	2	предл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+2	на	на	S	S	Sp-l	1	атриб	_	_
+3	кухне	кухня	N	N	Ncfsln	2	предл	_	_
+4	кот	кот	N	N	Ncmsny	5	предик	_	_
+5	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	4	предик	_	_
+2	на	на	S	S	Sp-l	1	атриб	_	_
+3	кухне	кухня	N	N	Ncfsln	2	предл	_	_
+4	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+5	кот	кот	N	N	Ncmsny	4	неакт-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	3	предик	_	_
+2	на	на	S	S	Sp-n	1	атриб	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+4	кот	кот	N	N	Ncmsny	3	неакт-компл	_	_
+5	кухне	кухня	N	N	Ncfsln	4	сочин	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	0	ROOT	_	_
+2	на	на	S	S	Sp-l	1	атриб	_	_
+3	сидит	сидеть	V	V	Vmip3s-a-e	5	опред	_	_
+4	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+5	кот	кот	N	N	Ncmsny	2	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	1-компл	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кот	кот	N	N	Ncmsny	2	предик	_	_
+4	кухне	кухня	N	N	Ncfsln	3	аппоз	_	_
+5	на	на	S	S	Sp-n	3	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	1-компл	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кот	кот	N	N	Ncmsny	2	предик	_	_
+4	на	на	S	S	Sp-l	3	атриб	_	_
+5	кухне	кухня	N	N	Ncfsln	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	кот	кот	N	N	Ncmsny	1	сочин	_	_
+5	на	на	S	S	Sp-n	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	на	на	S	S	Sp-n	2	обст	_	_
+5	кот	кот	N	N	Ncmsny	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	на	на	S	S	Sp-n	2	1-компл	_	_
+4	кот	кот	N	N	Ncmsny	3	предл	_	_
+5	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	пушистый	пушистый	A	A	Afpmsnf	2	предик	_	_
+2	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+3	на	на	S	S	Sp-l	2	1-компл	_	_
+4	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+5	кот	кот	N	N	Ncmsny	2	неакт-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кот	кот	N	N	Ncmsny	1	предик	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	на	на	S	S	Sp-a	2	атриб	_	_
+5	пушистый	пушистый	A	A	Afpmsaf	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кот	кот	N	N	Ncmsny	1	предик	_	_
+3	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	на	на	S	S	Sp-n	2	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кот	кот	N	N	Ncmsny	1	предик	_	_
+3	на	на	S	S	Sp-l	2	атриб	_	_
+4	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	2	опред	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кот	кот	N	N	Ncmsny	1	предик	_	_
+3	на	на	S	S	Sp-a	2	1-компл	_	_
+4	пушистый	пушистый	A	A	Afpmsaf	5	опред	_	_
+5	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кот	кот	N	N	Ncmsny	1	предик	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кухне	кухня	N	N	Ncfsln	2	1-компл	_	_
+5	на	на	S	S	Sp-n	2	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кот	кот	N	N	Ncmsny	1	предик	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	0	ROOT	_	_
+4	на	на	S	S	Sp-l	3	атриб	_	_
+5	кухне	кухня	N	N	Ncfsln	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	кот	кот	N	N	Ncmsny	1	предик	_	_
+4	на	на	S	S	Sp-a	3	1-компл	_	_
+5	пушистый	пушистый	A	A	Afpmsaf	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	кот	кот	N	N	Ncmsny	1	предик	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	на	на	S	S	Sp-n	3	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	на	на	S	S	Sp-n	1	обст	_	_
+4	кот	кот	N	N	Ncmsny	3	предл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	аппоз	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	на	на	S	S	Sp-n	1	обст	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кот	кот	N	N	Ncmsny	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кот	кот	N	N	Ncmsny	1	предик	_	_
+5	на	на	S	S	Sp-n	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	0	ROOT	_	_
+4	на	на	S	S	Sp-n	3	атриб	_	_
+5	кот	кот	N	N	Ncmsny	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	на	на	S	S	Sp-n	1	1-компл	_	_
+3	кот	кот	N	N	Ncmsny	2	предл	_	_
+4	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	3	аппоз	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	на	на	S	S	Sp-n	1	1-компл	_	_
+3	кот	кот	N	N	Ncmsny	2	предл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кухне	кухня	N	N	Ncfsln	3	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	на	на	S	S	Sp-l	1	1-компл	_	_
+3	кухне	кухня	N	N	Ncfsln	2	предл	_	_
+4	кот	кот	N	N	Ncmsny	1	предик	_	_
+5	пушистый	пушистый	A	A	Afpmsnf	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	на	на	S	S	Sp-l	1	1-компл	_	_
+3	кухне	кухня	N	N	Ncfsln	2	предл	_	_
+4	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+5	кот	кот	N	N	Ncmsny	1	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	на	на	S	S	Sp-n	1	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+4	кот	кот	N	N	Ncmsny	2	предл	_	_
+5	кухне	кухня	N	N	Ncfsln	4	аппоз	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	на	на	S	S	Sp-a	1	1-компл	_	_
+3	пушистый	пушистый	A	A	Afpmsaf	4	опред	_	_
+4	кухне	кухня	N	N	Ncfsln	2	предл	_	_
+5	кот	кот	N	N	Ncmsny	1	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кот	кот	N	N	Ncmsny	1	предик	_	_
+4	кухне	кухня	N	N	Ncfsln	3	аппоз	_	_
+5	на	на	S	S	Sp-n	3	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кот	кот	N	N	Ncmsny	1	предик	_	_
+4	на	на	S	S	Sp-l	3	атриб	_	_
+5	кухне	кухня	N	N	Ncfsln	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+4	кот	кот	N	N	Ncmsny	1	предик	_	_
+5	на	на	S	S	Sp-n	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	3	опред	_	_
+3	кухне	кухня	N	N	Ncfsln	1	1-компл	_	_
+4	на	на	S	S	Sp-n	1	обст	_	_
+5	кот	кот	N	N	Ncmsny	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	4	опред	_	_
+3	на	на	S	S	Sp-n	2	атриб	_	_
+4	кот	кот	N	N	Ncmsny	1	предик	_	_
+5	кухне	кухня	N	N	Ncfsln	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	сидит	сидеть	V	V	Vmip3s-a-e	0	ROOT	_	_
+2	пушистый	пушистый	A	A	Afpmsnf	5	опред	_	_
+3	на	на	S	S	Sp-l	2	атриб	_	_
+4	кухне	кухня	N	N	Ncfsln	3	предл	_	_
+5	кот	кот	N	N	Ncmsny	1	предик	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
